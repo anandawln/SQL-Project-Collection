@@ -29,11 +29,3 @@ Well-Documented Examples: Clear, concise comments to ensure readability and unde
 Real-World Use Cases: Queries inspired by actual projects and scenarios, making them practical and applicable.
 Continuous Updates: Repository is regularly updated with new queries and techniques.
 
-## 📋 License  
-Feel free to use or adapt the queries in this repository for personal or educational purposes. Attribution is always appreciated!
-
-## 🤝 Contributing
-Contributions are welcome! If you have interesting queries or optimizations, feel free to submit a pull request or open an issue for discussion.
-
-## 🧑‍💻 Contact  
-If you have any questions or suggestions, feel free to reach out or create an issue in this repository.
