@@ -10,3 +10,7 @@
 --select pc."ProdNumber" from product_category pc
 --where pc."Quantity" = 6
 
+CREATE TABLE product_total AS
+SELECT pc."ProdNumber", SUM(pc."Quantity") AS TotalQuantity
+FROM product_category pc
+GROUP BY pc."ProdNumber";
